@@ -28,7 +28,7 @@
 
 - :zap: In my free time, I read new tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MunibQazi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-allbright-04b6ab301/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MarkAllbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-allbright-04b6ab301/)
 
 ---
 
